@@ -1,5 +1,3 @@
-# main_program.py
-
 import tkinter as tk
 from tkinter import messagebox
 from ia import ia
